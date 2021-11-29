@@ -16,7 +16,7 @@ Login and registration Project using Java and MySQL
 ### Registration page:
 
 
-If registration is successful, it goes to login page. And the entered data is stored in database.
+If registration is successful, it goes to the login page. And the data entered in the registration form is stored in a database.
 
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/71961906/143766522-f299371c-e6ef-4812-9710-265af41c44e2.png)
@@ -34,7 +34,7 @@ If registration is successful, it goes to login page. And the entered data is st
 ![Screenshot (74)](https://user-images.githubusercontent.com/71961906/143766742-2de74761-e391-45dc-9e02-67497cb5e46a.png)
 
 
-### If login successful, welcome message will be displayed: (shows password matched)
+### If login is successful, a welcome message will be displayed : (shows password matched)
 
 
 ![Screenshot (76)](https://user-images.githubusercontent.com/71961906/143766876-ea9199d6-b43f-4dd2-875f-0910537d03fa.png)
